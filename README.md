@@ -7,8 +7,8 @@ Selected Projects
 - ClipCourt — a basketball-related app I'm developing.
 - Python Projects — small applications that demonstrate my programming fundamentals.
 - Game Development — experiments with Roblox Studio, Lua, and game mechanics.
-What I'm learning
 
+What I'm learning:
 Software development, product design, turning an idea into something useful, and making life easier.
 
 
