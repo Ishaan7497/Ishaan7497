@@ -40,12 +40,12 @@ Every project above has an automated test suite that runs on each push with GitH
 ### 🛤️ How my projects grew
 
 ```text
-2024  Hangman, Odd or Eve ............ my first Python games, in the terminal
-2026  opencv-experiments ............. tracking a basketball with colour and motion
-      ClipCourt ...................... swapped colour tracking for a YOLO detector
-      Hand Cricket CV ................ Odd or Eve, now played with real hands
-      mini-backtester ................ testing trading strategies on real prices
-      SAT Vocab Lab .................. a study tool built around opposites
+2024    Hangman, Odd or Eve ............ my first Python games, in the terminal
+2025-26 opencv-experiments ............. tracking a basketball with colour and motion
+        ClipCourt ...................... swapped colour tracking for a YOLO detector
+        Hand Cricket CV ................ Odd or Eve, now played with real hands
+        Backtester ................ testing trading strategies on real prices
+        SAT Vocab Lab .................. a study tool built for thorough and easy SAT vocab memorization
 ```
 
 ---
