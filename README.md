@@ -33,7 +33,7 @@
 
 🎮 I also experiment with game development in **Roblox Studio** with Lua, trying out game mechanics.
 
-✅ Every project above has an automated test suite that runs on each push with GitHub Actions.
+Every project above has an automated test suite that runs on each push with GitHub Actions.
 
 ---
 
