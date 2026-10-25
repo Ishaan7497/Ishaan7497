@@ -26,7 +26,7 @@
 |---|---|---|---|
 | 🏀 | **[ClipCourt](https://github.com/Ishaan7497/ClipCourt)** | Upload basketball footage, mark the rim once, and get made/miss highlight clips, a shot chart and per-player stats, all in the browser. | YOLOv8 · OpenCV · FastAPI · JavaScript |
 | ✋ | **[Hand Cricket CV](https://github.com/Ishaan7497/Odd_or_Eve_CV)** | Hand cricket against an AI using only your webcam. Real-time finger recognition, three match formats and three AI levels, up to one that actively counters your patterns. | MediaPipe · OpenCV · NumPy |
-| 📈 | **[mini-backtester](https://github.com/Ishaan7497/mini-backtester)** | Tests a moving-average trading strategy on real stock prices against buy-and-hold. Across 72 stocks since 2000 it wins through crashes (META 2021–23: **+180%** vs +32%) and loses on steady climbers. | pandas · yfinance · Matplotlib |
+| 📈 | **[mini-backtester](https://github.com/Ishaan7497/backtester)** | Tests a moving-average trading strategy on real stock prices against buy-and-hold. Across 72 stocks since 2000 it wins through crashes (META 2021–23: **+180%** vs +32%) and loses on steady climbers. | pandas · yfinance · Matplotlib |
 | 📚 | **[SAT Vocab Lab](https://github.com/Ishaan7497/SAT-VOCAB-LAB)** · [try it live](https://ishaan7497.github.io/SAT-VOCAB-LAB/) | An SAT vocabulary trainer built around opposites: 349 words in antonym-paired batches, with quizzes whose wrong answers point the wrong way. | JavaScript · HTML/CSS |
 | 🏏 | **[Odd or Eve](https://github.com/Ishaan7497/Odd-Or-Eve)** | The original terminal version of hand cricket: toss, innings, CRAZY mode and super overs. | Python |
 | 🪢 | **[Hangman](https://github.com/Ishaan7497/Hangman)** | Terminal Hangman with three themes, vowel hints and an ASCII-art gallows. | Python |
