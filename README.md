@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ishaan 👋</h1>
 
 <p align="center">
-  <b>Student developer · Python · computer vision</b><br>
+  <b>Student developer · Python · Computer Vision</b><br>
   I enjoy turning ideas into projects, exploring how software works, and learning by building.
 </p>
 
