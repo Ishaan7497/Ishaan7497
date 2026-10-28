@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <b>Portfolio:</b> <a href="https://ishaan7497.github.io">ishaan7497.github.io</a>, where every project below runs right in your browser
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?logo=google&logoColor=white" alt="MediaPipe">
