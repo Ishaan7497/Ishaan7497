@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
 
 | | Project | What it does | Built with |
 |---|---|---|---|
