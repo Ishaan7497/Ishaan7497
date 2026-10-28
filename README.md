@@ -31,25 +31,12 @@
 | 🏏 | **[Odd or Eve](https://github.com/Ishaan7497/Odd-Or-Eve)** | The original terminal version of hand cricket: toss, innings, CRAZY mode and super overs. | Python |
 | 🪢 | **[Hangman](https://github.com/Ishaan7497/Hangman)** | Terminal Hangman with three themes, vowel hints and an ASCII-art gallows. | Python |
 
-🎮 I also experiment with game development in **Roblox Studio** with Lua, trying out game mechanics.
 
 Every project above has an automated test suite that runs on each push with GitHub Actions.
 
----
-
-### 🛤️ How my projects grew
-
-```text
-2024    Hangman, Odd or Eve ............ my first Python games, in the terminal
-2025-26 opencv-experiments ............. tracking a basketball with colour and motion
-        ClipCourt ...................... swapped colour tracking for a YOLO detector
-        Hand Cricket CV ................ Odd or Eve, now played with real hands against AI
-        Backtester ,,,,,................ testing trading strategies on real prices
-        SAT Vocab Lab .................. a study tool built for thorough and easy SAT vocab memorization
-```
 
 ---
 
-### 🌱 What I'm learning
+### What I'm learning
 
 Software development, product design, turning an idea into something useful, and making life easier.
